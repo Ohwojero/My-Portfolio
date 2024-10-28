@@ -3,7 +3,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import { LampContainer } from "./ui/lamp";
 import { FlipWordsDemo } from "./Flipwords";
-import MagicButton from "./ui/magicButton";
+import MagicButton from "./ui/MagicButton";
 import Link from "next/link";
 import { MdArrowOutward } from "react-icons/md";
 export function LampDemo() {
