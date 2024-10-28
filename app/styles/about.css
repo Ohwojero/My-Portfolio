@@ -1,0 +1,20 @@
+.skill hr{
+    outline: none;
+    border: none;
+    width: 40px;
+    height:5px;
+    background: linear-gradient(264deg, #31bbb9  -5.09%,  #1c7897 106.28%);
+}
+.text h1{
+    font-size: 60px;
+    font-weight: 700;
+    background: linear-gradient(264deg, #31bbb9  -5.09%,  #1c7897 106.28%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.text p{
+    font-size: 22px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
